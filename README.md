@@ -19,5 +19,5 @@ Currently looking for my first software engineering position!
    * Current projects are mainly focused on the MERN stack with JavaScript, but open to learn any language depending on needs. 
   
 You can view my projects below, or find me here:
-   * https://EricGip.GitHub.io
+   * https://EricGip.GitHub.io (Outdated, currently updating!)
    * https://www.LinkedIn.com/in/EricGip/
