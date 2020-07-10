@@ -43,7 +43,7 @@ for (i = 0; i < array.length; i++):
 
 4th Year Statistics major at UC Davis and UC Davis Full Stack Coding Bootcamper!
 
-Currently looking for my first software engineering position!
+Currently looking for my first developer position!
    * I try to practice for whiteboard interviews with a few LeetCode problems in Python everyday.
    * Current projects are mainly focused on the MERN stack with JavaScript, but open to learn any language depending on needs. 
   
