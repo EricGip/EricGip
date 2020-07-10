@@ -8,8 +8,8 @@ What are u doing here lol:
 ```
 ans = 0;
 
-for (i = 0; i < array.length; i++):
-    public static void int;
+public static void int:
+    for (i = 0; i < array.length; i++):
         ans += 1;
         print ans;
 ```
