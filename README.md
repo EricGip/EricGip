@@ -49,5 +49,5 @@ Currently looking for my first developer position!
    * Current projects are mainly focused on the MERN stack with JavaScript, but open to learn any language depending on needs. 
   
 You can view my projects below, or find me here:
-   * https://EricGip.GitHub.io (Outdated, currently updating!)
+   * https://EricGip.GitHub.io
    * https://www.LinkedIn.com/in/EricGip/
