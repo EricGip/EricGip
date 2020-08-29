@@ -6,7 +6,8 @@
 What are u doing here lol: 
 
 ```
-
+- 🌱 I’m currently a 4th Year Statistics major at UC Davis and UC Davis Full Stack Coding Bootcamper!
+- 🤔 I’m looking for my first web development position.
 ```
 
 while (true)
