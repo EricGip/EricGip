@@ -29,13 +29,8 @@ Here are some ideas to get you started:
 -->
 
 ```
-ans = 0;
-
-for (i = 0; i < array.length; i++):
-    public static void int;
-    
-        ans += 1;
-    print ans;
+- 🌱 I’m currently a 4th Year Statistics major at UC Davis and UC Davis Full Stack Coding Bootcamper!
+- 🤔 I’m looking for my first web development position.
 ```
 
 4th Year Statistics major at UC Davis and UC Davis Full Stack Coding Bootcamper!
