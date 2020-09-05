@@ -21,7 +21,8 @@ recursive() { recursive (); }
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently a 4th Year Statistics major at UC Davis and UC Davis Full Stack Coding Bootcamper!
+- 🌱 I’m currently a 4th Year Statistics major at UC Davis
+- and UC Davis Full Stack Coding Bootcamper!
 - 🤔 I’m looking for my first web development position.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -29,7 +30,8 @@ Here are some ideas to get you started:
 -->
 
 ```
-- 🌱 I’m currently a 4th Year Statistics major at UC Davis and UC Davis Full Stack Coding Bootcamper!
+- 🌱 I’m currently a 4th Year Statistics major at UC Davis 
+- and UC Davis Full Stack Coding Bootcamper!
 - 🤔 I’m looking for my first web development position.
 ```
 
