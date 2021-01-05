@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 -->
 
 ```
-- 🌱 I’m currently a 4th Year Statistics major at UC Davis 
-- and UC Davis Full Stack Coding Bootcamper!
+- 🌱 Fresh UC Davis Graduate
 - 🤔 I’m looking for my first software engineering position.
 ```
 
