@@ -1,5 +1,3 @@
-### Hey there 👋
-
 <!--
 **EricGip/EricGip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,13 +28,11 @@ Here are some ideas to get you started:
 -->
 
 ```
-- 🌱 Fresh UC Davis Graduate
-- 🤔 I’m looking for my first software engineering position.
+- � App Sec Eng @ Pearson 
 ```
 
    * I try to practice for whiteboard interviews with a few LeetCode problems in Python everyday.
    * Current projects are mainly focused on the MERN stack with JavaScript, but open to learn any language depending on needs. 
   
 You can view my projects below, or find me here:
-   * https://EricGip.GitHub.io
    * https://www.LinkedIn.com/in/EricGip/
