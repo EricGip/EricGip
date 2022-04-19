@@ -33,4 +33,7 @@ Here are some ideas to get you started:
 
    * I try to practice for whiteboard interviews with a few LeetCode problems in Python everyday.
    * Current projects are mainly focused on the MERN stack with JavaScript, but open to learn any language depending on needs. 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricGip)](https://github.com/anuraghazra/github-readme-stats)
   
