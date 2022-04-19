@@ -35,4 +35,4 @@ Here are some ideas to get you started:
    * Current projects are mainly focused on the MERN stack with JavaScript, but open to learn any language depending on needs. 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricGip&theme=Dark)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricGip&theme=dark)  
