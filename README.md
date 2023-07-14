@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-```
-- � App Sec Eng @ Pearson 
-```
 
    * I try to practice for whiteboard interviews with a few LeetCode problems in Python everyday.
    * Current projects are mainly focused on the MERN stack with JavaScript, but open to learn any language depending on needs. 
