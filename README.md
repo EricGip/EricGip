@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 -->
 
 
-   * I try to practice for whiteboard interviews with a few LeetCode problems in Python everyday.
+   * Hello! Welcome to my page!
 
